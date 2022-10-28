@@ -19,7 +19,7 @@ Output: true
 
 ---
 
-2. Write a Dart program that counts the highest number of a character in a given string. You should read the string from the user. (5%)
+1. Write a Dart program that counts the highest number of a character in a given string. (5%)
 
 Examples:
 
@@ -47,7 +47,7 @@ Key : m, Value : 1
 
 ---
 
-3. Write a Dart program that converts an integer to its equivalent Roman literal. You should read the integer from the user. Here is a list of equivalencies: (10%)
+1. Write a Dart program that converts an integer to its equivalent Roman literal. Here is a list of equivalencies: (10%)
 
 ![](Q3.png)
 
